@@ -1,0 +1,31 @@
+.Newcard{
+    /* float: right; */
+    font-size: 1rem;
+    margin-left: 3rem;
+    /* margin-right: 4rem; */
+    
+}
+
+
+#OnE{
+    font-size: x-large;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 1rem;
+    border-style: solid;
+    border-width: 0 0 1px 0;
+    /* width: 86%; */
+}
+
+.date{
+    color: #8f7e7e;
+    margin-top: 15px;
+    font-size: 1.3rem;
+    margin-bottom: 3rem;
+}
+#OnE:hover{
+    cursor: pointer;
+}
+.noooo{
+    margin-bottom: 7rem;
+}

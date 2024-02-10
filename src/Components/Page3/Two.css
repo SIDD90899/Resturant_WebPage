@@ -1,0 +1,36 @@
+.twooo{
+    height: 80vh;
+    margin-left: 5rem;
+    cursor: pointer;
+}
+.two-head{
+ /* margin-top: 1rem; */
+}
+.two-head h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 2rem;
+}
+.taable {
+    margin-top: 6rem;
+}
+.taable table{
+    margin: auto;
+    /* float: right; */
+    /* margin-right: 5rem; */
+}
+.taable table tr td {
+    padding: 1.4rem 2rem;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    float: initial;
+    text-transform: capitalize;
+    margin-bottom: 6rem;
+}
+tbody, td, tfoot, th, thead, tr {
+    border-color: rgb(7, 7, 7);
+    border-style: groove;
+    border-width: 2px 0 2px 0;
+}

@@ -1,0 +1,24 @@
+.seled{
+    /* background: red; */
+    margin-left: 5rem;
+    margin-right: 7rem;
+}
+
+
+.newpara{   
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: larger;
+    margin-bottom: 3rem;
+}
+.newhead{
+    /* text-align: center; */
+    text-align: center;
+    font-size: 4rem;
+    text-transform: capitalize;
+    letter-spacing: 1.5px;
+}
+
+#clickbtn{
+    margin-bottom: 5rem;
+}

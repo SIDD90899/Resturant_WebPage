@@ -1,0 +1,27 @@
+#mainmenu{
+    /* height: 60vh; */
+    margin-top: 3rem;
+}
+.mainmenu-head{
+    /* height: 394px;
+    width: 500px; */
+    /* border: 2px solid black; */
+    margin: auto;
+   
+}
+.mainmenu-head h2{
+    font-size: 1.2rem;
+    font-weight: 700; 
+    text-align: center;
+}
+.mainmenu-head h1 {
+    text-align: center;
+    font-size: 11pc;
+    font-weight: 600;
+    /* margin: -22px -2px; */
+}
+.mainmenu-head p{
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
